@@ -1,0 +1,15 @@
+
+#
+.netrwhist
+
+# ignore everything except the 'PLUGINS' file
+autoload/*
+!autoload/PLUGINS
+
+#
+bundle/*
+!bundle/PLUGINS
+
+#
+scripts/*
+!scripts/PLUGINS
